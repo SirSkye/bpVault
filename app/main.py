@@ -2,7 +2,6 @@ from dotenv import load_dotenv
 import discord
 import os
 from bot import Bot
-import logging
 
 load_dotenv()
 
